@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AmitClip</string>
+    <string name="accessibility_service_label">AmitClip Auto-capture</string>
+    <string name="accessibility_service_description">Automatically saves copied text to AmitClip so you never lose it. Only clipboard text is captured, nothing else.</string>
+</resources>
